@@ -1,0 +1,3 @@
+/builds/active/src/rpscomm/ExternalLibs/Framework/unittest/tmp/CMakeFiles/rebuild_cache.dir
+/builds/active/src/rpscomm/ExternalLibs/Framework/unittest/tmp/CMakeFiles/edit_cache.dir
+/builds/active/src/rpscomm/ExternalLibs/Framework/unittest/tmp/CMakeFiles/FrameworkTests.dir
